@@ -43,7 +43,6 @@ console.log(filtered);
 
 // Output: 
 // [20, 25]
-
 // Explanation:
 // The filter() method is used to create a new array with elements that pass a test.
 // It takes a callback function as an argument. In this case, the callback function is x => x > 15.
@@ -62,4 +61,3 @@ console.log(filtered);
 // When x = 25, x > 15 returns true (25 is greater than 15).
 // The filter() method returns a new array with elements that satisfy the condition (i.e., numbers greater than 15).
 // In this case, the filtered array contains the numbers [20, 25].
-// -------------------------------------------------------------------------
