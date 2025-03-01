@@ -4,12 +4,12 @@
 // --------------------------------------------------------------------------
 // Ascending order
 // --------------------------------------------------------------------------
-let a = [1,2,3,0,13,2]    // This creates an array a with the elements [9, 3, 5, 1].
+let a = [1,2,3,0,13,2]    // This creates an array a with the elements [1,2,3,0,13,2].
 a.sort((x,y)=> x-y)       
 console.log(a) 
 
                         //The sort() method sorts the elements of an array in place (it modifies the original array).
-                        // By default, sort() converts elements to strings and sorts them lexicographically (alphabetically). This would not work correctly for numbers (e.g., [1, 10, 2] would be sorted as [1, 10, 2]).
+                        // By default, sort() converts elements to strings and sorts them lexicographically (alphabetically). By default, sort() converts elements to strings and sorts them lexicographically (alphabetically). This would not work correctly for numbers (e.g., [0, 1, 13, 2, 2, 3]).
                         // To sort numbers correctly, you need to provide a comparison function as an argument to sort().
 
 // Output: 
@@ -25,14 +25,14 @@ console.log(a)
 // 0 if x and y are equal.
 
 // How It Works:
-// For [9, 3, 5, 1], the sort() method compares pairs of elements:
-// 9 - 3 = 6 (positive, so 3 comes before 9).
-// 9 - 5 = 4 (positive, so 5 comes before 9).
-// 9 - 1 = 8 (positive, so 1 comes before 9).
-// 3 - 5 = -2 (negative, so 3 comes before 5).
-// 3 - 1 = 2 (positive, so 1 comes before 3).
-// 5 - 1 = 4 (positive, so 1 comes before 5).
-// The final sorted array in ascending order is [1, 3, 5, 9].
+// For [1, 2, 3, 0, 13, 2], the sort() method compares pairs of elements:
+// 1 - 2 = -1 (negative, so 1 comes before 2).
+// 2 - 3 = -1 (negative, so 2 comes before 3).
+// 3 - 0 = 3 (positive, so 0 comes before 3).
+// 3 - 13 = -10 (negative, so 3 comes before 13).
+// 13 - 2 = 11 (positive, so 2 comes before 13).
+// Recompare adjacent pairs until fully sorted.
+// The final sorted array in ascending order is [0, 1, 2, 2, 3, 13].
 
 
 // -------------------------------------------------------------------------
@@ -59,8 +59,11 @@ console.log(b)
 // 0 if x and y are equal.
 
 // How It Works:
-// For [1, 3, 5, 9], the sort() method compares pairs of elements:
-// 3 - 1 = 2 (positive, so 3 comes before 1).
-// 5 - 3 = 2 (positive, so 5 comes before 3).
-// 9 - 5 = 4 (positive, so 9 comes before 5).
-// The final sorted array in descending order is [9, 5, 3, 1].
+// For [1, 2, 3, 0, 13, 2], the sort() method compares pairs of elements:
+// 2 - 1 = 1 (positive, so 2 comes before 1).
+// 3 - 2 = 1 (positive, so 3 comes before 2).
+// 0 - 3 = -3 (negative, so 3 comes before 0).
+// 13 - 0 = 13 (positive, so 13 comes before 0).
+// 2 - 13 = -11 (negative, so 13 comes before 2).
+// Recompare adjacent pairs until fully sorted.
+// The final sorted array in descending order is [13, 3, 2, 2, 1, 0].
