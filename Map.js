@@ -4,12 +4,10 @@
 
 const originalArray = [1, 2, 3, 4, 5];
 const squaredArray = originalArray.map(num => num ** 2);
-
 console.log(squaredArray); 
 
 // Output: 
 // [1, 4, 9, 16, 25]
-
 
 // Explanation:
 // The map() method is used to transform each element of the array.
