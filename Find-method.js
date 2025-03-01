@@ -13,7 +13,6 @@
 let a = [5, 10, 15, 20];
 let b = a.find(x => x > 10);
 console.log(b);
-
 // How find() Works
 
 // The find() method iterates over each element of the array and applies the callback function to it.
