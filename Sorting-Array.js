@@ -1,8 +1,9 @@
 // Sorting an Array
 // Sorting helps organize data for better usability.
 // understand the concept as well.
-
+// --------------------------------------------------------------------------
 // Ascending order
+// --------------------------------------------------------------------------
 let a = [1,2,3,0,13,2]    // This creates an array a with the elements [9, 3, 5, 1].
 a.sort((x,y)=> x-y)       
 console.log(a) 
@@ -34,9 +35,10 @@ console.log(a)
 // The final sorted array in ascending order is [1, 3, 5, 9].
 
 
+// -------------------------------------------------------------------------
 
 // Descending order
-
+// --------------------------------------------------------------------------
 a.sort((x,y)=> y-x)
 console.log(a)
 
