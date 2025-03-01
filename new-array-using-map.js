@@ -10,13 +10,16 @@ console.log(squaredArray);
 // Output: 
 // [1, 4, 9, 16, 25]
 
+// Explanation:
 // The map() method is used to transform each element of the array.
 // It takes a callback function as an argument. In this case, the callback function is num => num ** 2.
 // The map() method applies this callback function to each element of the array.
 
+
 // Callback Function: num => num ** 2
 // This is an arrow function that takes a single argument num (representing each element of the array) and returns num ** 2.
 // The ** operator is the exponentiation operator in JavaScript. So, num ** 2 means "num squared" or "num raised to the power of 2".
+
 
 // How map() Works
 // The map() method iterates over each element of the array and applies the callback function to it.
