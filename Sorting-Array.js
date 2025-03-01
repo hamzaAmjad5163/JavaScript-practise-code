@@ -1,10 +1,12 @@
 // Sorting an Array
 // Sorting helps organize data for better usability.
+// understand the concept as well.
 
 // Ascending order
 let a = [1,2,3,0,13,2]    // This creates an array a with the elements [9, 3, 5, 1].
 a.sort((x,y)=> x-y)       
 console.log(a) 
+
                         //The sort() method sorts the elements of an array in place (it modifies the original array).
                         // By default, sort() converts elements to strings and sorts them lexicographically (alphabetically). This would not work correctly for numbers (e.g., [1, 10, 2] would be sorted as [1, 10, 2]).
                         // To sort numbers correctly, you need to provide a comparison function as an argument to sort().
