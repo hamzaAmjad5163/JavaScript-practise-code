@@ -4,9 +4,11 @@
 // --------------------------------------------------------------------------
 // Ascending order
 // --------------------------------------------------------------------------
+
 let a = [1, 2, 3, 0, 13, 2]; // This creates an array a with the elements [1,2,3,0,13,2].
 a.sort((x, y) => x - y);
 console.log(a);
+
 
 //The sort() method sorts the elements of an array in place (it modifies the original array).
 // By default, sort() converts elements to strings and sorts them lexicographically (alphabetically). By default, sort() converts elements to strings and sorts them lexicographically (alphabetically). This would not work correctly for numbers (e.g., [0, 1, 13, 2, 2, 3]).
@@ -34,7 +36,6 @@ console.log(a);
 // The final sorted array in ascending order is [0, 1, 2, 2, 3, 13].
 
 // -------------------------------------------------------------------------
-
 // Descending order
 // --------------------------------------------------------------------------
 a.sort((x, y) => y - x);
