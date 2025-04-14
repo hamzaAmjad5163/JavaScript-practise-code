@@ -15,7 +15,7 @@
 // 1 ≤ arr.size() ≤ 106
 // 1 ≤ arr[i] ≤ arr.size() + 1
 
-class Solution {
+class answer {
     missingNumber(arr) {
     const n = arr.length + 1; // since one number is missing
     const expectedSum = (n * (n + 1)) / 2;
@@ -23,7 +23,7 @@ class Solution {
     return expectedSum - actualSum;
   }
 }
-const solution = new Solution();
+const solution = new answer();
 
 console.log(solution.missingNumber([1, 2, 3, 5])); // Output: 4
 console.log(solution.missingNumber([8, 2, 4, 5, 3, 7, 1])); // Output: 6
