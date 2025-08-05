@@ -13,7 +13,8 @@ It’s ideal for learners, job interview prep, or anyone revising core JavaScrip
 ---
 
 ## 📁 Folder Structure
-/Array Methods/
+# /Array Methods/
+
 ├── Filter.js
 ├── Find-index-method.js
 ├── Find-max-min-value-in-array.js
@@ -25,7 +26,8 @@ It’s ideal for learners, job interview prep, or anyone revising core JavaScrip
 ├── Sorting-Array.js
 ├── sum-all-element-array.js
 
-/practise-questions-to-solve/
+# /practise-questions-to-solve/
+
 ├── 0 - 1-Knapsack-Problem.js
 ├── Anagram.js
 ├── Array-Duplicates.js
@@ -84,7 +86,8 @@ It’s ideal for learners, job interview prep, or anyone revising core JavaScrip
 ├── Union-of-2-Sorted-with-Duplicates.js
 ├── Union-of-Arrays-with-Duplicates.js
 
-/web-dev-js/
+# /web-dev-js/
+
 ├── Async-Await.js
 ├── Callback.js
 ├── Closure.js
@@ -122,6 +125,7 @@ It’s ideal for learners, job interview prep, or anyone revising core JavaScrip
 
 ### 🤝 Contribute  
 Want to add your own solutions or improvements? Contributions are welcome! Feel free to fork the repo, make changes, and submit a pull request.  
+
 
 
 
