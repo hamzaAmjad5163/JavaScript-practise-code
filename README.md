@@ -86,6 +86,7 @@ It’s ideal for learners, job interview prep, or anyone revising core JavaScrip
 ├── Union-of-2-Sorted-with-Duplicates.js
 ├── Union-of-Arrays-with-Duplicates.js
 ├── Middle-of-a-Linked-List.js
+├── Frequencies-in-a-Limited-Array.js
 
 # /web-dev-js/
 
@@ -126,6 +127,7 @@ It’s ideal for learners, job interview prep, or anyone revising core JavaScrip
 
 ### 🤝 Contribute  
 Want to add your own solutions or improvements? Contributions are welcome! Feel free to fork the repo, make changes, and submit a pull request.  
+
 
 
 
