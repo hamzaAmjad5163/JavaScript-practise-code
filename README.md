@@ -88,6 +88,7 @@ It’s ideal for learners, job interview prep, or anyone revising core JavaScrip
 ├── Middle-of-a-Linked-List.js
 ├── Frequencies-in-a-Limited-Array.js
 ├── Longest-Consecutive-Subsequence.js
+├── Move-All-Zeroes-to-End.js
 
 # /web-dev-js/
 
@@ -128,6 +129,7 @@ It’s ideal for learners, job interview prep, or anyone revising core JavaScrip
 
 ### 🤝 Contribute  
 Want to add your own solutions or improvements? Contributions are welcome! Feel free to fork the repo, make changes, and submit a pull request.  
+
 
 
 
