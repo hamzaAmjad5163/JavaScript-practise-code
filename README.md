@@ -93,6 +93,7 @@ It’s ideal for learners, job interview prep, or anyone revising core JavaScrip
 ├── Min-and-Max-in-Array.js
 ├── Nth-Fibonacci-Number.js
 ├── Sorted-Array-Search.js
+├── Rat-in-a-Maze-Problem-I.js
 
 
 # /web-dev-js/
@@ -134,6 +135,7 @@ It’s ideal for learners, job interview prep, or anyone revising core JavaScrip
 
 ### 🤝 Contribute  
 Want to add your own solutions or improvements? Contributions are welcome! Feel free to fork the repo, make changes, and submit a pull request.  
+
 
 
 
