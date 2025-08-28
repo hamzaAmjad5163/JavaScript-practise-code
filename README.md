@@ -97,6 +97,7 @@ It’s ideal for learners, job interview prep, or anyone revising core JavaScrip
 ├── DFS-of-Graph.js
 ├── Linked-List-Insertion-At-End.js
 ├── K-th-element-of-two-Arrays.js
+├── Reverse-a-linked-list.js
 
 
 # /web-dev-js/
@@ -138,6 +139,7 @@ It’s ideal for learners, job interview prep, or anyone revising core JavaScrip
 
 ### 🤝 Contribute  
 Want to add your own solutions or improvements? Contributions are welcome! Feel free to fork the repo, make changes, and submit a pull request.  
+
 
 
 
