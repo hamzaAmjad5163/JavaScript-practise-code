@@ -101,6 +101,7 @@ It’s ideal for learners, job interview prep, or anyone revising core JavaScrip
 ├── N-meetings-in-one-room.js
 ├── Reverse-array-in-groups.js
 ├── Fractional-Knapsack.js
+├── Row-with-max-1s.js
 
 
 # /web-dev-js/
@@ -142,6 +143,7 @@ It’s ideal for learners, job interview prep, or anyone revising core JavaScrip
 
 ### 🤝 Contribute  
 Want to add your own solutions or improvements? Contributions are welcome! Feel free to fork the repo, make changes, and submit a pull request.  
+
 
 
 
