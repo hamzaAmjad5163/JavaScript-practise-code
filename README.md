@@ -103,6 +103,7 @@ It’s ideal for learners, job interview prep, or anyone revising core JavaScrip
 ├── Fractional-Knapsack.js
 ├── Row-with-max-1s.js
 ├── Add-Number-Linked-Lists.js
+├── Number-of-occurrence.js
 
 
 # /web-dev-js/
@@ -144,6 +145,7 @@ It’s ideal for learners, job interview prep, or anyone revising core JavaScrip
 
 ### 🤝 Contribute  
 Want to add your own solutions or improvements? Contributions are welcome! Feel free to fork the repo, make changes, and submit a pull request.  
+
 
 
 
