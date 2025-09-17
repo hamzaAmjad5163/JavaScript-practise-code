@@ -108,6 +108,7 @@ It’s ideal for learners, job interview prep, or anyone revising core JavaScrip
 ├── Diameter-of-a-Binary-Tree.js
 ├── Power-of-number.js
 ├── nCr.js
+├── Find-triplets-with-zero-sum.js
 
 
 # /web-dev-js/
@@ -149,6 +150,7 @@ It’s ideal for learners, job interview prep, or anyone revising core JavaScrip
 
 ### 🤝 Contribute  
 Want to add your own solutions or improvements? Contributions are welcome! Feel free to fork the repo, make changes, and submit a pull request.  
+
 
 
 
