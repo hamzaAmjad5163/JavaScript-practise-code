@@ -111,6 +111,7 @@ It’s ideal for learners, job interview prep, or anyone revising core JavaScrip
 ├── Find-triplets-with-zero-sum.js
 ├── The-Celebrity-Problem.js
 ├── Balanced-Tree-Check.js
+├── Triplet-Sum-in-Array.js
 
 
 # /web-dev-js/
@@ -152,6 +153,7 @@ It’s ideal for learners, job interview prep, or anyone revising core JavaScrip
 
 ### 🤝 Contribute  
 Want to add your own solutions or improvements? Contributions are welcome! Feel free to fork the repo, make changes, and submit a pull request.  
+
 
 
 
