@@ -114,6 +114,7 @@ It’s ideal for learners, job interview prep, or anyone revising core JavaScrip
 ├── Triplet-Sum-in-Array.js
 ├── Allocate-Minimum-Pages.js
 ├── Job-Sequencing-Problem.js
+├── Square-Root.js
 
 
 # /web-dev-js/
@@ -155,6 +156,7 @@ It’s ideal for learners, job interview prep, or anyone revising core JavaScrip
 
 ### 🤝 Contribute  
 Want to add your own solutions or improvements? Contributions are welcome! Feel free to fork the repo, make changes, and submit a pull request.  
+
 
 
 
