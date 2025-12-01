@@ -115,6 +115,7 @@ It’s ideal for learners, job interview prep, or anyone revising core JavaScrip
 ├── Allocate-Minimum-Pages.js
 ├── Job-Sequencing-Problem.js
 ├── Square-Root.js
+├── Add-1-to-a-Linked-List-Number.js
 
 
 # /web-dev-js/
@@ -156,6 +157,7 @@ It’s ideal for learners, job interview prep, or anyone revising core JavaScrip
 
 ### 🤝 Contribute  
 Want to add your own solutions or improvements? Contributions are welcome! Feel free to fork the repo, make changes, and submit a pull request.  
+
 
 
 
